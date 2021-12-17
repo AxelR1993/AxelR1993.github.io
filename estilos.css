@@ -3,7 +3,7 @@
 #welcome-section{
   
     height:100vh;
-    background-image: url("https://i.ibb.co/VSvgpsZ/fondo1.jpg");
+    background-image: url("imagenes/inicio.jpg");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
@@ -14,7 +14,7 @@
   #projects{
     
     height:100vh;
-    background-image: url("https://i.ibb.co/CBnT90q/madera-sostenible.jpg");
+    background-image: url("imagenes/proyectos.jpg");
     background-repeat: no-repeat;
     background-position: bottom;
     background-size:cover;
@@ -250,7 +250,7 @@
   #videogames{
     
     height:100vh;
-    background-image: url("https://i.ibb.co/CBnT90q/madera-sostenible.jpg");
+    background-image: url("imagenes/proyectos.jpg");
     background-repeat: no-repeat;
     background-position: bottom;
     background-size:cover;
@@ -355,7 +355,7 @@
   
   #about{
     height:100vh;
-    background-image: url(https://i.ibb.co/cC5tPG8/wp8522334.jpg);
+    background-image: url(imagenes/about.jpg);
     background-position: bottom;
     
     
@@ -506,7 +506,7 @@
   
   #contact{
     height:100vh;
-    background-image: url("https://i.ibb.co/b6t6wsv/contacto.jpg");
+    background-image: url("imagenes/contacto.jpg");
     background-attachment: fixed;
     background-position:center;
     background-repeat:no-repeat;
